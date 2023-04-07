@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.exe.config
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.pdb
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.pdb
