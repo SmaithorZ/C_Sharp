@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\obj\Debug\ForEach.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\ForEach\ForEach\obj\Debug\ForEach.pdb

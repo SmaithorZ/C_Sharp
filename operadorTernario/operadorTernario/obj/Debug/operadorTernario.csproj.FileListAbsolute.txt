@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\bin\Debug\operadorTernario.exe.config
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\bin\Debug\operadorTernario.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\bin\Debug\operadorTernario.pdb
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\obj\Debug\operadorTernario.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\obj\Debug\operadorTernario.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\obj\Debug\operadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\obj\Debug\operadorTernario.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\operadorTernario\operadorTernario\obj\Debug\operadorTernario.pdb

@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\bin\Debug\Loopings.exe.config
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\bin\Debug\Loopings.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\bin\Debug\Loopings.pdb
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\obj\Debug\Loopings.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\obj\Debug\Loopings.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\obj\Debug\Loopings.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\obj\Debug\Loopings.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\Loopings\Loopings\obj\Debug\Loopings.pdb

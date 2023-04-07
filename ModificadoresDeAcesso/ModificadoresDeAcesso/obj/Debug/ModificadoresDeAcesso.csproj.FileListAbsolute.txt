@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\ModificadoresDeAcesso.exe.config
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\ModificadoresDeAcesso.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\ModificadoresDeAcesso.pdb
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\ModificadoresDeAcesso.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\ModificadoresDeAcesso.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\ModificadoresDeAcesso.exe
+C:\Users\PC\Documents\MyProjects\C_Sharp\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\ModificadoresDeAcesso.pdb
